@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Charlotte
 
-# Frontend Dev | FullStack （with 3 yoe）👨‍💻
-
-
+### Frontend Dev | FullStack （with 3 yoe）👨‍💻
 little infos about me 👇
 
 ```
