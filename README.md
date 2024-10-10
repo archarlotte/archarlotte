@@ -1,5 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Charlotte
 
+# Frontend Dev | FullStack （with 3 yoe）👨‍💻
+
+
+little infos about me 👇
+
+```
+const Charlotte = {
+    pronouns: "She" | "Her",
+    languages:["english","Cantonese","Mandarin"],
+    askMeAbout: ["web dev","full stack"],
+    technologies:{
+        backEnd: ["nodejs", "express", "koa", "C#"],
+        frontEnd: ["typescript","react"],
+        database: ["MSSQL","mySql"],
+    },
+    architecture: [ "microservices", "Single page applications"],
+}
+```
 <!--
 **archarlotte/archarlotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
